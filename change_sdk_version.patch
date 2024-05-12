@@ -1,0 +1,13 @@
+--- apktool.yml	2024-05-12 21:49:23.000000000 +0700
++++ apktool.yml	2024-05-12 21:49:59.296631177 +0700
+@@ -6,8 +6,8 @@
+   - 1
+   tag: null
+ sdkInfo:
+-  minSdkVersion: 8
+-  targetSdkVersion: 15
++  minSdkVersion: 23
++  targetSdkVersion: 23
+ packageInfo:
+   forcedPackageId: 127
+   renameManifestPackage: null

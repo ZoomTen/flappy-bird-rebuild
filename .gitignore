@@ -1,0 +1,5 @@
+*.apk
+*.apk.idsig
+*.o
+*.so
+unpacked
